@@ -1,0 +1,8 @@
+# C build outputs
+a.out
+*.exe
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
