@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Define strlen function.
+
 void strLen(char *ptr, int *len) {
     while (*ptr != '\0') {
         if (*ptr == ' ') {
